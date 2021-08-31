@@ -13,5 +13,8 @@ $body-font: 'Open Sans', sans-serif;
 
 body {
     font-family: $body-font;
+}
+
+*, *::after, *::before {
     box-sizing: border-box;
 }
